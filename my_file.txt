@@ -1,0 +1,8 @@
+Hello Stanley, welcome to PLP
+Your admission number is 8112
+your adventure awaits you
+
+Here is a list of your courses
+ 1. Python
+ 2. C++
+ 3. Javascript
